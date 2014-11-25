@@ -1,3 +1,4 @@
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-SunDate%20Picker-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1159)
 SunDate Picker
 =================
 
